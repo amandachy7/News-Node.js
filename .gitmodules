@@ -1,0 +1,3 @@
+[submodule "news-frontend"]
+	path = news-frontend
+	url = https://github.com/amandachy7/News-Node.js.git
