@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -39,3 +40,41 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+=======
+# phpstorm project files
+.idea
+
+# visual studio code project files
+.vscode
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/vendor
+
+# composer itself is not needed
+composer.phar
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml
+
+tests/_output/*
+tests/_support/_generated
+
+#vagrant folder
+/.vagrant
+>>>>>>> 584611d1f1cbc78dc58813384438369541a15f76
